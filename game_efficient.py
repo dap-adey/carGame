@@ -18,10 +18,10 @@ while True:
 
     elif command == "help":
         print("""
-start --- starts the car
-stop --- stops the car
-help --- displays command options
-quit --- terminates program     
+start --- Starts the car
+stop --- Stops the car
+help --- Displays command options
+quit --- Terminates program     
                 """)
     elif command == "quit":
         break
